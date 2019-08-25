@@ -1,5 +1,6 @@
 # Angular - Meat App
 
+#### Sistema com formato parecido com o do Ifood. Desenvolvido utilizando Angular 4.0.0
 
 ## Créditos
 
