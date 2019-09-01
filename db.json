@@ -370,5 +370,53 @@
       "restaurantId": "tasty-treats"
     }
   ],
-  "orders": []
+  "orders": [
+    {
+      "address": "Conjunto Esperança",
+      "number": "202",
+      "optionalAddress": "Bloco 325",
+      "paymentOption": "DEB",
+      "orderItems": [
+        {
+          "quantity": 2,
+          "menuId": "capp"
+        },
+        {
+          "quantity": 2,
+          "menuId": "espreso"
+        }
+      ],
+      "id": 1
+    },
+    {
+      "address": "Av Santos Dumont",
+      "number": "100",
+      "optionalAddress": "",
+      "paymentOption": "MONEY",
+      "orderItems": [
+        {
+          "quantity": 1,
+          "menuId": "sunday"
+        }
+      ],
+      "id": 2
+    },
+    {
+      "address": "Avenida B",
+      "number": "206",
+      "optionalAddress": "Bloco 458",
+      "paymentOption": "REF",
+      "orderItems": [
+        {
+          "quantity": 1,
+          "menuId": "burger"
+        },
+        {
+          "quantity": 1,
+          "menuId": "fries"
+        }
+      ],
+      "id": 3
+    }
+  ]
 }
