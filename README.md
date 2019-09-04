@@ -1,6 +1,6 @@
 # Angular - Meat App
 
-#### Sistema com formato parecido com o do Ifood. Desenvolvido utilizando Angular 4.0.0
+#### Colocando em prática os conhecimentos adquiridos no curso de Angular. Desenvolvido usando Angular 4.0.0.0
 
 ### Testando o Meat App
 
