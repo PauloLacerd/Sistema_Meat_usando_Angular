@@ -1,6 +1,6 @@
 # Angular - Meat App
 
-#### Colocando em prática os conhecimentos adquiridos no curso de Angular. Desenvolvido usando Angular 4.0.0.0
+Projeto criado e desenvolvido durante o curso de Aplicaçes WEB com Angular.
 
 ### Testando o Meat App
 
